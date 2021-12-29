@@ -51,7 +51,7 @@
 				</executions>
 				<configuration>
 					<executable>ng</executable>
-					<workingDirectory>front-end</workingDirectory>
+					<workingDirectory>../random-animal/front-end</workingDirectory>
 					<arguments>build</arguments>
 				</configuration>
 			</plugin>
